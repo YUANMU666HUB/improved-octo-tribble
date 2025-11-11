@@ -1,0 +1,29 @@
+﻿  源.c
+C:\Users\yuammu\Desktop\Project2\Project2\源.c(45,20): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\yuammu\Desktop\Project2\Project2\源.c(45,28): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\yuammu\Desktop\Project2\Project2\源.c(45,36): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\yuammu\Desktop\Project2\Project2\源.c(47,15): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\yuammu\Desktop\Project2\Project2\源.c(47,26): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\yuammu\Desktop\Project2\Project2\源.c(47,39): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\yuammu\Desktop\Project2\Project2\源.c(47,60): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\yuammu\Desktop\Project2\Project2\源.c(48,15): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\yuammu\Desktop\Project2\Project2\源.c(48,26): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\yuammu\Desktop\Project2\Project2\源.c(48,39): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\yuammu\Desktop\Project2\Project2\源.c(48,60): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\yuammu\Desktop\Project2\Project2\源.c(50,20): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\yuammu\Desktop\Project2\Project2\源.c(50,31): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\yuammu\Desktop\Project2\Project2\源.c(50,41): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\yuammu\Desktop\Project2\Project2\源.c(50,61): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\yuammu\Desktop\Project2\Project2\源.c(87,3): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\yuammu\Desktop\Project2\Project2\源.c(88,4): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\yuammu\Desktop\Project2\Project2\源.c(89,4): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\yuammu\Desktop\Project2\Project2\源.c(89,7): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\yuammu\Desktop\Project2\Project2\源.c(110,57): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\yuammu\Desktop\Project2\Project2\源.c(110,63): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\yuammu\Desktop\Project2\Project2\源.c(112,38): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\yuammu\Desktop\Project2\Project2\源.c(112,57): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\yuammu\Desktop\Project2\Project2\源.c(120,17): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+C:\Users\yuammu\Desktop\Project2\Project2\源.c(121,37): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+C:\Users\yuammu\Desktop\Project2\Project2\源.c(108,25): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\yuammu\Desktop\Project2\Project2\源.c(109,15): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  Project2.vcxproj -> C:\Users\yuammu\Desktop\Project2\x64\Debug\Project2.exe
